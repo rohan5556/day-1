@@ -1,0 +1,26 @@
+!doctype html>
+<html>
+    <head>
+        <title>day 1</title>
+        <link rel="stylesheet" href="first.css">
+    </head>
+    <body>
+        <h1>Rohan</h1>
+        <h2>Rohan</h2>
+        
+        <img src="/federico-respini-sYffw0LNr7s-unsplash.jpg">
+        <img src="/daniel-roe-lpjb_UMOyx8-unsplash.jpg">
+        <img src="/dave-hoefler-lsoogGC_5dg-unsplash.jpg" alt="this is a ntural image">
+        <img src="./img/jay-mantri-TFyi0QOx08c-unsplash.jpg" alt="">
+        <img src="/img/tim-swaan-eOpewngf68w-unsplash.jpg" alt="">
+        <a href="https://www.youtube.com/">you tube</a>
+        <img src="/dave-hoefler-lsoogGC_5dg-unsplash.jpg">
+        <img src="/david-marcu-78A265wPiO4-unsplash.jpg">
+        <img src="/img/qingbao-me
+    </body>
+    <footer>     
+
+
+    
+    </footer>
+</html>
